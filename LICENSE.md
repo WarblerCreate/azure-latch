@@ -60,3 +60,4 @@ The Azure Latch Optimizer is a performance and assistance modification tool desi
 
 ---
 *This document is for academic study of game modification techniques. The author does not condone cheating in online multiplayer environments.*
+⁤
